@@ -12,6 +12,8 @@ Airbnb hosts and platform teams get thousands of reviews that are hard to summar
 
 ## 2. Data used
 
+https://insideairbnb.com/get-the-data/
+
 This project uses two Seattle Airbnb datasets:
 
 1. Reviews dataset
