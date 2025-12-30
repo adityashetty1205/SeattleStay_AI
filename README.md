@@ -4,7 +4,7 @@ SeattleStay AI is a text analytics project that reads Seattle Airbnb guest revie
 
 ---
 
-## 1. What I was trying to solve
+## 1. Objective
 
 Airbnb hosts and platform teams get thousands of reviews that are hard to summarize manually. The goal here was to automatically extract the main themes across reviews, connect those themes with sentiment, and use them to support discovery and comparison of listings. 
 
